@@ -11,6 +11,10 @@
 1. Get the data
    - Web Scrapy (Terminal Project, BeautifulSoup Request)
    - Supplied by the consumer, or some data websites like Kraggle
+2. Analyse the data
+   - Import the data (Directly import, DataBase like MongoDB, MySQL)
+   - Data Preprocessing (Dealing with the missing value, rearangment)
+   - Data Visualization (Matplotlib, Pyecharts)
 #### Projects:
 - Douban Movie Top250 
 - Amazon Food comments Analysis
