@@ -7,5 +7,7 @@
 
 ## Python Application
 ### a. Data Analysis - Jupyter Notebook
+- Douban Movie Top250 
+- Amazon Food comments Analysis
 ### b. Web Application - Django
 ### c. Test Automation - API development
