@@ -7,6 +7,11 @@
 
 ## Python Application
 ### a. Data Analysis - Jupyter Notebook
+#### Steps:
+1. Get the data
+   - Web Scrapy (Terminal Project, BeautifulSoup Request)
+   - Supplied by the consumer, or some data websites like Kraggle
+#### Projects:
 - Douban Movie Top250 
 - Amazon Food comments Analysis
 ### b. Web Application - Django
