@@ -9,6 +9,7 @@
 ### a. Data Analysis - Jupyter Notebook
 #### Tools:
 - Numpy, Pandas, Matplotlib, re(Regular Expression)
+- Jupyter Notebook: for data analysis, jupyter notebook is better than the IDLE - Pycharm
 #### Steps:
 1. Get the data
    - Web Scrapy (Terminal Project, BeautifulSoup Request)
@@ -17,6 +18,8 @@
    - Import the data (Directly import, DataBase like MongoDB, MySQL)
    - Data Preprocessing (Dealing with the missing value, rearangment)
    - Data Visualization (Matplotlib, Pyecharts)
+3. Model fitting, Testing and Validation
+   - Linear Regression, 
 #### Projects:
 - Douban Movie Top250 
 - Amazon Food comments Analysis
