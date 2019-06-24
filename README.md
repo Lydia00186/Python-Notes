@@ -4,6 +4,13 @@
 - Python is widely used in different areas: Data Analysis, Web Application, Test API development
 - Summary the python skills and projects according to the daily usage
 
+## Python skills summary
+- **Iterative**: For, While,etc., advanced usage: List comprehension
+- **Slicing**:
+- **Re**: Regular Expression, dealing with the text or words, normally filter, substitute,
+- **Functions**:
+- **Decorators**:
+
 
 ## Python Application
 ### a. Data Analysis - Jupyter Notebook
