@@ -10,6 +10,7 @@
 - **Re**: Regular Expression, dealing with the text or words, normally filter, substitute,
 - **Functions**:
 - **Decorators**:
+- **sys,os**:
 
 
 ## Python Application
@@ -36,4 +37,8 @@
 Normally when we talk about API, it refers to the REST API.
 
 **REST**: **Re**presentational **S**tate **T**ransfer
+
+### d.OOP - Object-Oriented Programming
+**class**: like java, class in python has inheritance propertities
+
 
