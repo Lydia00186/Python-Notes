@@ -7,6 +7,8 @@
 
 ## Python Application
 ### a. Data Analysis - Jupyter Notebook
+#### Tools:
+- Numpy, Pandas, Matplotlib, re(Regular Expression)
 #### Steps:
 1. Get the data
    - Web Scrapy (Terminal Project, BeautifulSoup Request)
