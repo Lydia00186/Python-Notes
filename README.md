@@ -38,7 +38,7 @@ Normally when we talk about API, it refers to the REST API.
 
 **REST**: **Re**presentational **S**tate **T**ransfer
 
-### d.OOP - Object-Oriented Programming
-**class**: like java, class in python has inheritance propertities
+### d. OOP - Object-Oriented Programming
+**class**: like java, class in python also has inheritance propertity
 
 
