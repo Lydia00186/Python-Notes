@@ -25,3 +25,7 @@
 - Amazon Food comments Analysis
 ### b. Web Application - Django
 ### c. Test Automation - API development
+#### API: Application Programming Interface
+Normally when we talk about API, it refers to the REST API.
+**REST**: **Re**presentational **S**tate **T**ransfer
+
