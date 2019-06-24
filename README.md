@@ -16,7 +16,7 @@
    - Supplied by the consumer, or some data websites like Kraggle
 2. Analyse the data
    - Import the data (Directly import, DataBase like MongoDB, MySQL)
-   - Data Preprocessing (Dealing with the missing value, rearangment)
+   - Data Clean and Preprocessing (Dealing with the missing value, Wrangling)
    - Data Visualization (Matplotlib, Pyecharts)
 3. Model fitting, Testing and Validation
    - Linear Regression, 
@@ -27,5 +27,6 @@
 ### c. Test Automation - API development
 #### API: Application Programming Interface
 Normally when we talk about API, it refers to the REST API.
+
 **REST**: **Re**presentational **S**tate **T**ransfer
 
