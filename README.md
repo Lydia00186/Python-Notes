@@ -19,7 +19,7 @@
 ### a. Data Analysis - Jupyter Notebook
 #### Tools:
 - Numpy, Pandas, Matplotlib, re(Regular Expression)
-- Jupyter Notebook: for data analysis, jupyter notebook is better than the IDLE - Pycharm
+- Jupyter Notebook: for data analysis, jupyter notebook is better than the IDE - Anaconda
 #### Steps:
 1. Get the data
    - Web Scrapy (Terminal Project, BeautifulSoup Request)
