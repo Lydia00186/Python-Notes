@@ -10,7 +10,7 @@
 - **Re**: Regular Expression, dealing with the text or words, normally filter, substitute,
 - **Functions**:
 - **Decorators**:
-- **sys,os**:
+- **sys,os**: see my os_sys_usage.py
 - **file read, write**:
 - **data**: csv, json
 
