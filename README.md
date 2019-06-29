@@ -3,6 +3,10 @@
 ## Summary
 - Python is widely used in different areas: Data Analysis, Web Application, Test API development
 - Summary the python skills and projects according to the daily usage
+## Tools:
+- Python 3.6 or above
+- Anaconda
+
 
 ## Python skills summary: How to be pythonic
 - **Iterative**: For, While,etc., advanced usage: List comprehension
