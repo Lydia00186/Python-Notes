@@ -58,7 +58,7 @@ Windows: <code>$ venv\Scripts\activate</code> <br>
 Linux/Mac: <code>$ source venv/bin/activate</code> <br>
 4. Install the requirements for the project <br>
 <code>$ pip install -r requirements.txt</code>  <br>
-**This step will help you install the required apps/modules on your local machine automatically. That's also why we would create a requirements.txt for the project. Similarly you can use it when you deploy your project on a linux server **
+**This step will help you install the required apps/modules on your local machine automatically. That's also why we would create a requirements.txt for the project. Similarly you can use it when you deploy your project on a linux server**
 5. Finally start the localhost server<br>
 <code>$ python manage.py runserver</code> <br>
 
