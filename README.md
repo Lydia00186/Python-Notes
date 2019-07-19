@@ -38,6 +38,32 @@
 - Douban Movie Top250 
 - Amazon Food comments Analysis
 ### b. Web Application - Django
+Build a blog website with Python Django
+
+**Personal blog website based on Django-Framwork (Web_Development)**
+
+#### Install the following apps on your machine
+1. Git (optional)
+2. virtualenv (pip install virtualenv)
+3. Python
+
+#### How to run on your local server
+1. Firstly, clone the repository using the git shell <br>
+
+2. Go to the base directory of the project <br>
+<code>cd portfolio </code> <br>
+3. Create a virtual environment and activate it. <br>
+<code>$ virtualenv venv</code> <br>
+Windows: <code>$ venv\Scripts\activate</code> <br>
+Linux/Mac: <code>$ source venv/bin/activate</code> <br>
+4. Install the requirements for the project <br>
+<code>$ pip install -r requirements.txt</code>  <br>
+** This step will install the required apps/modules on your local machine automatically. That's also why we would create a requirements.txt for the project. Similarly you can use it when you deploy your project on a linux server **
+5. Finally start the localhost server<br>
+<code>$ python manage.py runserver</code> <br>
+
+You can see builded blog website on your localhost server
+
 ### c. Test Automation - API development
 #### API: Application Programming Interface
 Normally when we talk about API, it refers to the REST API.
