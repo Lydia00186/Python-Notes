@@ -51,7 +51,7 @@ Build a blog website with Python Django
 1. Firstly, clone the repository using the git shell <br>
 
 2. Go to the base directory of the project <br>
-<code>cd portfolio </code> <br>
+<code>cd Web_Development </code> <br>
 3. Create a virtual environment and activate it. <br>
 <code>$ virtualenv venv</code> <br>
 Windows: <code>$ venv\Scripts\activate</code> <br>
