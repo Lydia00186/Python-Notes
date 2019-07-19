@@ -41,6 +41,9 @@
 Build a blog website with Python Django
 
 **Personal blog website based on Django-Framwork (Web_Development)**
+1. Added **Markdown Editor** at the Backend and Frontend 
+2. Added **table of content** for the post detail site
+3. Added **Lasted Posted, Archives, Category, and Tags** features at the Sidebar
 
 #### Install the following apps on your machine
 1. Git (optional)
